@@ -1,8 +1,12 @@
-# node-js-getting-started
-
+# Nodeku
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 This application supports the [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+
+## Purposes
+
+- Handling POST request in multipart form-data format
+- Debugging ABA Payway push notification
 
 ## Running Locally
 
